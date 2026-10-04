@@ -1,0 +1,6 @@
+{
+  "name": "Semenax - Vitalidade & Volume Seminal",
+  "description": "Aplicativo oficial de acompanhamento, rotina de suplementação, guia clínico e rastreador de vitalidade masculina Semenax.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
